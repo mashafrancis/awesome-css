@@ -1,0 +1,19 @@
+{
+  "name": "awesome-css",
+  "version": "1.0.0",
+  "description": "awesome css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashafrancis/awesome-css.git"
+  },
+  "author": "Francis Masha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mashafrancis/awesome-css/issues"
+  },
+  "homepage": "https://github.com/mashafrancis/awesome-css#readme"
+}
